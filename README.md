@@ -1,15 +1,14 @@
 ## Laravel Bundle
 
-I have upload Sample Laravel application (Laravel-FileUpload) at https://github.com/boparaiamrit/Laravel-FileUpload
+I have upload Sample Laravel application (Laravel-FileUpload) at ##https://github.com/boparaiamrit/Laravel-FileUpload
+
+Install Bundle using artisan and publish assets of bundle. Then set file_upload_dir, thumb_upload_dir and delete_route config
+in bundle/config.
+
+Delete route is used to delete file. When we use route with name 'upload' we use delete route as 'upload' and when we use controllers
+like home controller with upload action then we set delete_route as 'home/upload'.
 
 # jQuery File Upload Plugin
-
-## Demo
-[Demo File Upload](http://blueimp.github.com/jQuery-File-Upload/)
-
-## Setup instructions
-* [How to setup the plugin on your website](https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
-* [How to use only the basic plugin (minimal setup guide).](https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin)
 
 ## Features
 * **Multiple file upload:**  

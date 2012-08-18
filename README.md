@@ -1,3 +1,7 @@
+## Laravel Bundle
+
+I have upload Sample Laravel application (Laravel-FileUpload) at https://github.com/boparaiamrit/Laravel-FileUpload
+
 # jQuery File Upload Plugin
 
 ## Demo
@@ -73,7 +77,3 @@ Microsoft Internet Explorer has no support for multiple file selection or upload
 
 ## License
 Released under the [MIT license](http://www.opensource.org/licenses/MIT).
-
-## Laravel Bundle
-
-I have upload Sample Laravel application (Laravel-FileUpload) at (https://github.com/boparaiamrit/Laravel-FileUpload).

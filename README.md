@@ -1,6 +1,7 @@
 ## Laravel Bundle
 
-I have upload Sample Laravel application (Laravel-FileUpload) at ## https://github.com/boparaiamrit/Laravel-FileUpload
+I have upload Sample Laravel application (Laravel-FileUpload) at 
+## https://github.com/boparaiamrit/Laravel-FileUpload
 
 Install Bundle using artisan and publish assets of bundle. Then set file_upload_dir, thumb_upload_dir and delete_route config
 in bundle/config.
